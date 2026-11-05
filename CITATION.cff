@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "Please cite our NeurIPS 2026 paper when using this code."
+title: "Serialization Tax in Shared-Latent Exchangeable Decisions"
+type: software
+authors: &authors
+  - family-names: Zhang
+    given-names: Siming
+    affiliation: Shanghai University
+  - family-names: Shen
+    given-names: Zhehui
+    affiliation: Shanghai University
+  - family-names: Chen
+    given-names: Shijie
+    affiliation: Shanghai University
+  - family-names: Gu
+    given-names: Xinle
+    affiliation: Shanghai University
+  - family-names: Yu
+    given-names: Yansen
+    affiliation: Shanghai University
+  - family-names: Yu
+    given-names: Hang
+    affiliation: Shanghai University
+    email: yuhang@shu.edu.cn
+repository-code: "https://github.com/SiminChang/Serialization-Tax-in-Shared-Latent-Exchangeable-Decisions"
+date-released: 2026-11-04
+preferred-citation:
+  type: conference-paper
+  title: "Serialization Tax in Shared-Latent Exchangeable Decisions"
+  authors: *authors
+  collection-title: "Advances in Neural Information Processing Systems"
+  year: 2026
